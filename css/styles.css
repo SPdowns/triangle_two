@@ -1,0 +1,11 @@
+.btn {
+  display: block
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
